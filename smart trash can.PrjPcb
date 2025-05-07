@@ -50,23 +50,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\youtube-28pins-master\V1I1\[01] - COVER PAGE.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DTIKWLBQ
-
-[Document2]
 DocumentPath=..\..\youtube-28pins-master\V1I1\[02] - BLOCK DIAGRAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,6 +65,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GOVQVHNV
+
+[Document2]
+DocumentPath=..\..\youtube-28pins-master\V1I1\[01] - COVER PAGE.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DTIKWLBQ
 
 [Document3]
 DocumentPath=smarttrashcan.SchDoc
@@ -1129,22 +1129,6 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-
-[NetInfos]
-Net1=NetName=PB0|NetColor=clBlack
-Net2=NetName=PB1|NetColor=clBlack
-Net3=NetName=PB2|NetColor=clBlack
-Net4=NetName=PB3|NetColor=clBlack
-Net5=NetName=PB4|NetColor=clBlack
-Net6=NetName=PB5|NetColor=clBlack
-Net7=NetName=PC0|NetColor=clBlack
-Net8=NetName=PC1|NetColor=clBlack
-Net9=NetName=PC2|NetColor=clBlack
-Net10=NetName=PC3|NetColor=clBlack
-Net11=NetName=PC4|NetColor=clBlack
-Net12=NetName=PC5|NetColor=clBlack
-Net13=NetName=PD2|NetColor=clBlack
-Net14=NetName=PD7|NetColor=clBlack
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
